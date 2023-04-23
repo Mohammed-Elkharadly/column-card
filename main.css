@@ -71,6 +71,7 @@ main .container .box h1 {
     margin: 2rem 0;
     color: hsl(0, 0%, 95%);
     text-transform: uppercase;
+    font-size: 2.5rem;
 }
 
 main .container .box p {
